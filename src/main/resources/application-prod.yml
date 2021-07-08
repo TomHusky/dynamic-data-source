@@ -1,9 +1,3 @@
-logging:
-  level:
-    cn.greenbon: info
-  config: classpath:logback.xml
-
-#
 # Spring配置
 spring:
   datasource:
